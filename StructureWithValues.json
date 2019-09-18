@@ -2,11 +2,11 @@
 	"params": [{
 		"id": 34,
 		"title": "testcaseId",
-		"value": 298,
+		"value": 298
 	}, {
 		"id": 146,
 		"title": "Testcase name",
-		"value": "Валидация параметров на подаче объявления",
+		"value": "Валидация параметров на подаче объявления"
 	}, {
 		"id": 73,
 		"title": "unitId",
@@ -20,10 +20,10 @@
 				"value": "Publish item",
 				"values": [{
 					"id": 4931,
-					"title": "Publish item",
+					"title": "Publish item"
 				}, {
 					"id": 4932,
-					"title": "Edit item",
+					"title": "Edit item"
 				}]
 			}]
 		}, {
@@ -35,10 +35,10 @@
 				"value": "",
 				"values": [{
 					"id": 4894,
-					"title": "Authorize user",
+					"title": "Authorize user"
 				}, {
 					"id": 4896,
-					"title": "Restore password",
+					"title": "Restore password"
 				}]
 			}]
 		}]
